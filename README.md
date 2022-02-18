@@ -1,16 +1,19 @@
-### Hi there 👋
+## A short summary:
+### At the time I'm mostly working on my game('s) in rust.
 
-<!--
-**kirinokirino/kirinokirino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can follow the progress on [Twitch](https://twitch.tv/kirinokirino).
 
-Here are some ideas to get you started:
+The amount I don't know and want to learn is **HUGE**, and any help is appreciated.
+I also want to give back and help in any way I can!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What you can check right now:
+Games on [Itch.io](https://kirinokirino.itch.io).
+Music on [Soundcloud](https://soundcloud.com/kirinokirino).
+
+Study or review japanese kana alphabets without distraction: [snappy-kana](https://lunariko.com/snappy-kana/).
+Add kana to russian / english text, for studying: [kana-trainer](https://lunariko.com/Kana-trainer/).
+CSS library: [lunarikoCSS](https://lunariko.com/lunarikoCSS/).
+Markdown previewer: [lunarMark](https://kirinokirino.github.io/LunarMark/).
+Simplest way to create and share some numbers with a graph: [sequenceGraph](https://lunariko.com/sequenceGraph/).
+CSS frameworks visual comparison (bootstrap and fomantic-ui): [CSS frameworks comparison](https://kirinokirino.github.io/CSS-frameworks-comparison/).
+A calendar with hearts: (Calendar)[https://kirinokirino.github.io/calendar/].
