@@ -6,8 +6,8 @@ You can follow the progress on [Twitch](https://twitch.tv/kirinokirino).
 The amount I don't know and want to learn is **HUGE**, and any help is appreciated.
 I also want to give back and help in any way I can!
 
-|What you can check right now|
-| :---         |     :---:      |
+|What you can check out|right now|
+| :--- | :---: |
 |Games on|[Itch.io](https://kirinokirino.itch.io)|
 |Music on|[Soundcloud](https://soundcloud.com/kirinokirino)|
 |Study or review japanese kana alphabets without distraction|[snappy-kana](https://lunariko.com/snappy-kana/)|
