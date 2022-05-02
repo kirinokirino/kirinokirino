@@ -10,6 +10,7 @@ I also want to give back and help in any way I can!
 | :--- | :---: |
 |Games on|[Itch.io](https://kirinokirino.itch.io)|
 |Music on|[Soundcloud](https://soundcloud.com/kirinokirino)|
+|Some of my p5 sketches|[p5 editor](https://editor.p5js.org/kirinokirino/sketches)|
 |Study or review japanese kana alphabets without distraction|[snappy-kana](https://lunariko.com/snappy-kana/)|
 |Add kana to russian / english text, for studying|[kana-trainer](https://lunariko.com/Kana-trainer/)|
 |CSS library|[lunarikoCSS](https://lunariko.com/lunarikoCSS/)|
