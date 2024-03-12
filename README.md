@@ -1,10 +1,7 @@
-## A short summary:
-### At the time I'm mostly working on my game(s) in rust.
+## Figuring out how adults exist in this world
+### Please look at my portfolio at kirinokirino.github.io and hire me thank you :)
 
-You can follow the progress on [Twitch](https://twitch.tv/kirinokirino).
-
-The amount I don't know and want to learn is **HUGE**, and any help is appreciated.
-I also want to give back and help in any way I can!
+I sometimes stream on [Twitch](https://twitch.tv/kirinokirino). Mostly when someone asks me to.
 
 |What you can check out right now||
 | :--- | :---: |
