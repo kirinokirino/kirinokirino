@@ -13,7 +13,6 @@ I sometimes stream on [Twitch](https://twitch.tv/kirinokirino). Mostly when some
 |CSS library|[lunarikoCSS](https://kirinokirino.github.io/lunarikoCSS/)|
 |Markdown previewer|[lunarMark](https://kirinokirino.github.io/LunarMark/)|
 |Simplest way to create and share some numbers with a graph|[sequenceGraph](https://kirinokirino.github.io/sequenceGraph/)|
-|CSS frameworks visual comparison (bootstrap and fomantic-ui)|[Comparison](https://kirinokirino.github.io/CSS-frameworks-comparison/)|
 |A calendar with hearts|[Calendar](https://kirinokirino.github.io/calendar/)|
 |A python library for converting between iso language codes and corresponding language names with its autonym|[iso-language-codes](https://pypi.org/project/iso-language-codes/) (PyPi)|
 |An npm package for wasm target of pulldown-cmark|[turbomark](https://www.npmjs.com/package/turbomark) (NPM)|
