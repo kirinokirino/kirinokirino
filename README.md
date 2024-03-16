@@ -1,8 +1,3 @@
-## Figuring out how adults exist in this world
-### Please look at my portfolio at kirinokirino.github.io and hire me thank you :)
-
-I sometimes stream on [Twitch](https://twitch.tv/kirinokirino). Mostly when someone asks me to.
-
 |What you can check out right now||
 | :--- | :---: |
 |Games on|[Itch.io](https://kirinokirino.itch.io)|
@@ -16,3 +11,5 @@ I sometimes stream on [Twitch](https://twitch.tv/kirinokirino). Mostly when some
 |A calendar with hearts|[calendar](https://kirinokirino.github.io/calendar/)|
 |A python library for converting between iso language codes and corresponding language names with its autonym|[iso-language-codes](https://pypi.org/project/iso-language-codes/) (PyPi)|
 |An npm package for wasm target of pulldown-cmark|[turbomark](https://www.npmjs.com/package/turbomark) (NPM)|
+
+I sometimes stream on [Twitch](https://twitch.tv/kirinokirino). Mostly when someone asks me to.
